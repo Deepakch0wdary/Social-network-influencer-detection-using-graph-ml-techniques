@@ -1,0 +1,15 @@
+source,target
+Alice,Bob
+Alice,Charlie
+Bob,Eva
+Charlie,David
+David,George
+Eva,Frank
+George,Helen
+Helen,Ian
+Ian,Julia
+Charlie,Eva
+Eva,Julia
+Bob,Charlie
+Frank,Helen
+George,Julia
