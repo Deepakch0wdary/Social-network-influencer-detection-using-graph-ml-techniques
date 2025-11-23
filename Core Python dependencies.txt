@@ -1,0 +1,32 @@
+# Core Python dependencies
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+scipy==1.14.1
+
+# Graph Machine Learning
+networkx==3.3
+torch==2.5.1
+torch-geometric==2.5.3
+torch-scatter==2.1.2
+torch-sparse==0.6.18
+torch-cluster==1.6.3
+torch-spline-conv==1.2.2
+dgl==2.1.0  # Deep Graph Library (alternative to PyG)
+
+# Data Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.1
+
+# Experiment Tracking & Evaluation
+tqdm==4.66.5
+tensorboard==2.18.0
+
+# NLP / Text Features (if analyzing posts or tweets)
+transformers==4.46.1
+sentence-transformers==3.2.1
+
+# Utilities
+pyyaml==6.0.2
+jupyterlab==4.2.5
